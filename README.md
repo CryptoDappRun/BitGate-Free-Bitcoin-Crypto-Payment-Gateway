@@ -6,7 +6,7 @@ BitGate is a Bitcoin crypto payment PHP gateway,<br>
 *PHP with Sqlite database,<br>
 *No need install bitcoin core,<br>
 *Funds store to your cryptocurrency key directly,<br>
-*encrypted database,<br>
+*Encrypted database,<br>
 *Full control..<br>
 
 
