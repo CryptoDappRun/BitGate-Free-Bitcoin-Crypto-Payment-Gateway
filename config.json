@@ -1,0 +1,9 @@
+{
+    "PruchaseItem": {
+        "ItemType": "VIP1"
+    },
+    "Amount": {
+        "VIP1": 0.001,
+        "VIP2": 0.002
+    }
+}
