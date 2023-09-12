@@ -17,6 +17,9 @@ The principle of the software is to generate different private keys and bind the
 
 <br>
 
+>Support Crypto<br>
+<img src="4.png"><br><br>
+
 #### index.php 
 >to accept payment<br>
 <img src="1.png"><br><br>
