@@ -18,14 +18,15 @@ The principle of the software is to generate different private keys and bind the
 <br>
 
 >Support Crypto<br>
-<img src="4.png"><br><br>
+<img src="https://github.com/CryptoDappRun/BitGate-Free-Bitcoin-Crypto-Payment-Gateway/blob/main/4.png?raw=true"><br><br>
 
 #### index.php 
 >to accept payment<br>
-<img src="1.png"><br><br>
+<img src="https://github.com/CryptoDappRun/BitGate-Free-Bitcoin-Crypto-Payment-Gateway/blob/main/1.png?raw=true"><br><br>
 #### search.php
 >user check their order
-<img src="2.png"><br><br>
+<img src="https://github.com/CryptoDappRun/BitGate-Free-Bitcoin-Crypto-Payment-Gateway/blob/main/2.png?raw=true"><br><br>
 #### data.php
 >admin check all of the order
-<img src="3.png"><br><br>
+<img src="https://github.com/CryptoDappRun/BitGate-Free-Bitcoin-Crypto-Payment-Gateway/blob/main/3.png?raw=true"><br><br>
+
