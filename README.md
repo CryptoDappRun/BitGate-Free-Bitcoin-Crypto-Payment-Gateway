@@ -10,6 +10,17 @@ BitGate is a Bitcoin crypto payment PHP gateway,<br>
 *Full control..<br>
 
 
+PHP 7.4.30 tested
+
+Install Dependencies：
+#### `git clone https://github.com/t0k4rt/phpqrcode`
+#### `git clone https://github.com/BitcoinPHP/BitcoinECDSA.php`
+#### `composer require web3p/web3.php`
+#### `composer require kornrunner/ethereum-address`
+
+place payments.db to other directory,and set globals.php.
+set open_basedir in php.ini.
+
 
 
 <br>
