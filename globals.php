@@ -27,17 +27,26 @@ unable to insert data to database
 sudo chmod 777 /home/database/
 sudo chmod 777 /home/database/payments.db
 
+
+sudo systemctl restart php-fpm.service
+
 ////////////////////////////////////////////////////////////////////////////////////
 
 */
 
 
+//database directory   
+$DatabaseName= "payments.db";
 
-//database directory.  it's better to place payments.db to other folder.
-$DatabaseName="/home/database/payments.db";
+//database directory. for security reason,it's better to place payments.db to other folder.
+//$DatabaseName="/home/database/payments.db";
 
 //Item name,default is the first title.
 $PurchaseItem= array("Software 1", "Software 2");
+
+$AdminName="bitgate";
+$AdminPass="bitgate";
+
 
 
 //Accept crypto
