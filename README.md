@@ -18,8 +18,9 @@ Install Dependencies：
 #### `composer require web3p/web3.php`
 #### `composer require kornrunner/ethereum-address`
 
-place payments.db to other directory,and set globals.php.
-set open_basedir in php.ini.
+if you want place payments.db to other directory,you need set open_basedir in php.ini.
+and then set globals.php.
+
 
 
 
