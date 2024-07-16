@@ -2,7 +2,7 @@
 session_start();
 
 // Your SQLite database setup
- 
+require_once 'globals.php'; 
 
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
@@ -45,7 +45,7 @@ if ($filteredUsername === false || $filteredUPassword === false ) {
     // Example: Fetch hashed password from database and compare
 
     // If authentication is successful, store user data in session
-    if ($username=="DFLKSKFOIEWIOEWIOOWIRU23938" && $password=="DFLKSKFOIEWIOEWIOOWIRU23938") {
+    if ($username==$AdminName && $password==$AdminPass) {
         $_SESSION['authenticated'] = true;
         $_SESSION['username'] = $username;
     }
